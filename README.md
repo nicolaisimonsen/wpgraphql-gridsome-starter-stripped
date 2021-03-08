@@ -1,0 +1,3 @@
+# WPGraphQL Gridsome Starter (STRIPPED)
+
+To be continued...
