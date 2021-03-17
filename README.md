@@ -2,7 +2,7 @@
 
 This a simple starter I made for a recent blog post on [WPGraphQL.com](https://www.wpgraphql.com/blog),
 
-[Getting started with WPGraphQL and Gridsome](https://www.wpgraphql.com/2021/02/25/getting-started-with-wpgraphql-and-gridsome)
+[Getting started with WPGraphQL and Gridsome](https://www.wpgraphql.com/2021/03/16/getting-started-with-wpgraphql-and-gridsome)
 
 Go read it and code along with me 🤘
 
